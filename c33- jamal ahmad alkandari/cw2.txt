@@ -1,0 +1,23 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        
+        
+        fun ();
+        
+     }
+     
+     public static void fun(){
+         int a = 1;
+     
+          for (int m = 1 ; m <= 10 ; m++){
+              if (){
+                  System.out.println(m);
+              }
+             
+          
+               } 
+      
+     }
+}
